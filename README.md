@@ -14,7 +14,7 @@ It has focused lessons and a short history, and is coded entirely with native Ja
 [New Sensai](https://github.com/connortbot/new-sensai)
 
 ### Past Work
-Unfortunately, much of my past work is copyrighted and private due to software contracting terms. Furthermore, some of them were designed specifically for organizations.
+Unfortunately, much of my past work is copyrighted and private due to software contracting terms. Furthermore, some of them were designed specifically for organizations. You are free to look at my old code!
 These include Google Cloud, Google Drive, and Minecraft server management softwares, and an unfinished game called "Astro Impero".
 You can also view my arbitrage betting software, [SimplArb](https://github.com/connortbot/simplarb).
 
