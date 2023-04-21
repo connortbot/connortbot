@@ -22,5 +22,5 @@ You can also view my arbitrage betting software, [SimplArb](https://github.com/c
 Employment Inquiries: loiconnor8@gmail.com
 Open Source Inquiries: ctloi@uwaterloo.ca or loix2206@mylaurier.ca
 
-I am always looking for help on my projects! If you are simply interested in my work, would like help on your own projects, or want to learn more about the amazing world of software through my ventures, please don't hesitate to contact me 😄
+I am always looking for help on my projects! If you are simply interested in my work, would like help on your own projects, or want to learn more, please don't hesitate to contact me 😄
 
