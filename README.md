@@ -1,4 +1,4 @@
-### Hello! 👋
+<h1 align="center">Hello! 👋</h1>
 
 My name is Connor Loi, and I'm currently studying Computer Science and Business Administration at both UWaterloo and Wilfrid-Laurier!
 
@@ -24,3 +24,9 @@ Open Source Inquiries: ctloi@uwaterloo.ca or loix2206@mylaurier.ca
 
 I am always looking for help on my projects! If you are simply interested in my work, would like help on your own projects, or want to learn more, please don't hesitate to contact me 😄
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
