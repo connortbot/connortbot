@@ -3,7 +3,7 @@
 My name is Connor Loi, and I'm currently studying Computer Science and Business Administration at both UWaterloo and Wilfrid-Laurier!
 
 ### Current Work
-I'm currently hard at work on the [Caitlyn Renderer](https://github.com/Astro-Monkeys/caitlyn) under the Astro-Monkeys RenderTeam. As a student design team, we primarily focus on upholding industry standard skills of agile development
+I'm currently hard at work on the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn) under the cypraeno RenderTeam. As a student design team, we primarily focus on upholding industry standard skills of agile development
 We are constantly on recruitment, so feel free to reach out below!
 
 ### Past Work
