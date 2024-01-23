@@ -10,7 +10,8 @@ I also am working on Astro Impero, the turn-based space war strategy game for Wi
 [Astro Impero](https://github.com/connortbot/AstroImpero) is open source!
 
 ### Past Work
-Unfortunately, much of my past work is private due to software contracting terms. Furthermore, some of them were designed specifically for organizations. You are free to look at my old code!
+Unfortunately, much of my past work is private due to software contracting terms. Furthermore, some of them were designed specifically for organizations. 
+But, you are more than welcome to view the code that is public, such as [GoGo Chess](https://github.com/connortbot/gogo-chess) or [SimplArb](https://github.com/connortbot/simplarb).
 
 #### Contact Me!
 Inquiries: loiconnor8@gmail.com
