@@ -1,13 +1,10 @@
 <h1 align="center">Hello! 👋</h1>
 
-My name is Connor Loi, and I'm currently studying Computer Science and Business Administration at both UWaterloo and Wilfrid-Laurier!
+My name is Connor Loi, and I'm currently studying Computer Science and Business Administration at UWaterloo and Wilfrid-Laurier!
 
 ### Current Work
-I'm currently hard at work on the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn) under the cypraeno RenderTeam. As a student design team, we primarily focus on upholding industry standard skills of agile development.
-We are constantly on recruitment, so feel free to reach out below!
-
-I also am working on Astro Impero, the turn-based space war strategy game for Windows and Mac. It is currently undergoing a overhaul in terms of UI and gameplay style, and you are more than welcome to contribute and check out the game.
-[Astro Impero](https://github.com/connortbot/AstroImpero) is open source!
+I'm currently hard at work on the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn) under the cypraeno RenderTeam. Most recently, I have been completing a paper detailing a Principled BSDF model with a LUT-based optimization appraoch. 
+I always am wanting help on my personal projects, so feel free to reach out below!
 
 ### Past Work
 Unfortunately, much of my past work is private due to software contracting terms. Furthermore, some of them were designed specifically for organizations. 
