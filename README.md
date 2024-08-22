@@ -3,7 +3,7 @@
 My name is Connor Loi, and I'm currently studying Computer Science and Business Administration at UWaterloo and Wilfrid-Laurier!
 
 ### Current Work
-I'm currently hard at work on the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn) under the cypraeno RenderTeam. Most recently, I have been completing a paper detailing a Principled BSDF model with a LUT-based optimization appraoch. 
+I'm currently hard at work on the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn). Most recently, I have been completing a paper detailing a Principled BSDF model with a LUT-based optimization appraoch. 
 I always am wanting help on my personal projects, so feel free to reach out below!
 
 ### Past Work
