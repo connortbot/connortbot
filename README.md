@@ -7,7 +7,7 @@ I'm currently hard at work on the [Caitlyn Renderer](https://github.com/cypraeno
 I always am wanting help on my personal projects, so feel free to reach out below!
 
 ### Past Work
-Unfortunately, much of my past work is private due to software contracting terms. Furthermore, some of them were designed specifically for organizations. 
+Unfortunately, much of my past work is private due to contracting terms. Furthermore, some of them were designed specifically for organizations. 
 But, you are more than welcome to view the code that is public, such as [GoGo Chess](https://github.com/connortbot/gogo-chess) or [SimplArb](https://github.com/connortbot/simplarb).
 
 #### Contact Me!
