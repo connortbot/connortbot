@@ -6,7 +6,7 @@ My name is Connor, and I'm currently studying Computer Science and Business Admi
 I'm currently...
 - Hard at work on the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn).
 - Most recently, I have been completing a paper detailing a Principled BSDF model with a LUT-based optimization appraoch.
-- Building Solomonoff, a WIP local LLM inference engine for TinyLlama and Cohere models!
+- Building [Solomonoff](https://github.com/connortbot/solomonoff), a WIP local LLM inference engine for TinyLlama and Cohere models!
 I always want help - reach out :)
 
 #### Contact Me!
