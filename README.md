@@ -7,7 +7,7 @@ I'm currently...
 - Hard at work on the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn).
 - Most recently, I have been completing a paper detailing a Principled BSDF model with a LUT-based optimization appraoch.
 - Working on a easy, language learning game called [Squeak](https://github.com/connortbot/squeak) that makes comprehensive input easy. *Looking for frontend and backend engineers!*
-- 
+
 I always want help - reach out :)
 
 ### Cool Past Work
