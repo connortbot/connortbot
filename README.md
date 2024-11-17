@@ -4,9 +4,9 @@ My name is Connor, and I'm currently studying Computer Science and Business Admi
 
 ### Current Work
 I'm currently...
+- Building [Squeak](https://github.com/connortbot/squeak). Check out more [here](https://squeak.today/).
 - Hard at work on the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn).
 - Most recently, I have been completing a paper detailing a Principled BSDF model with a LUT-based optimization appraoch.
-- Working on a easy, language learning game called [Squeak](https://github.com/connortbot/squeak) that makes comprehensive input easy.
 
 I always want help - reach out :)
 
