@@ -3,10 +3,9 @@
 My name is Connor, and I'm currently studying Computer Science and Business Administration at UWaterloo and Wilfrid-Laurier!
 
 ### Current Work
-I'm currently...
+I'm currently:
 - Building [Squeak](https://github.com/connortbot/squeak). Check out more [here](https://squeak.today/).
-- Hard at work on the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn).
-- Most recently, I have been completing a paper detailing a Principled BSDF model with a LUT-based optimization appraoch.
+- In the Innovation Lab for TD.
 
 I always want help - reach out :)
 
@@ -14,6 +13,8 @@ I always want help - reach out :)
 - At CalHacks 11.0, my team and I won **Best Use of Vapi** with [LiveStory](https://github.com/pranavbedi/LiveStory)!
 - As a learning experience I build a local LLM inference engine for TinyLlama called [Solomonoff](https://github.com/connortbot/solomonoff)! I would love to work on it more in the future.
 - I built a [podcast diarization project](https://github.com/connortbot/podcast-diarizer) to learn about audio clustering in a machine learning pipeline. This is my most *heavily documented* project, feel free to read my writeups!
+- Built the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn).
+- Wrote a paper on Principled BSDF models with LUT-based optimization of intermediate functions.
 
 #### Contact Me!
 Inquiries: loiconnor8@gmail.com
