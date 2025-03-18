@@ -11,7 +11,7 @@ I always want help - reach out :)
 
 ### Cool Past Work
 - At CalHacks 11.0, my team and I won **Best Use of Vapi** with [LiveStory](https://github.com/pranavbedi/LiveStory)!
-- To learn some netwokring, I built [Starbit](https://github.com/connortbot/starbit), a space RTS. You can host it yourself, so grab some friends and give it a try!
+- To learn some networking, I built [Starbit](https://github.com/connortbot/starbit), a space RTS. You can host it yourself, so grab some friends and give it a try!
 - As a learning experience I build a local LLM inference engine for TinyLlama called [Solomonoff](https://github.com/connortbot/solomonoff)! I would love to work on it more in the future.
 - I built a [podcast diarization project](https://github.com/connortbot/podcast-diarizer) to learn about audio clustering in a machine learning pipeline. This is my most *heavily documented* project, feel free to read my writeups!
 - Built the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn).
