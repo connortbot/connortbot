@@ -4,8 +4,8 @@ My name is Connor, and I'm a Comp Sci student at UWaterloo.
 
 ### Current Work
 I'm currently:
+- Core team at [Helicone](https://github.com/Helicone/helicone). Learn more [here](https://www.helicone.ai/)
 - Building [Squeak](https://github.com/connortbot/squeak). Check out more [here](https://squeak.today/).
-- In the Innovation Lab for TD, working on cool new things like voice AI!
 
 I always want help - reach out :)
 
