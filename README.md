@@ -1,10 +1,9 @@
 <h1 align="center">Hello! 👋</h1>
 
-My name is Connor, and I'm a Comp Sci student at UWaterloo.
+My name is Connor, and I'm a CS student at UWaterloo.
 
-### Current Work
-I'm currently:
-- On the core team at [Helicone](https://github.com/Helicone/helicone). Learn more [here](https://www.helicone.ai/)
+### Currently
+- Core team at [Helicone](https://github.com/Helicone/helicone). Learn more [here](https://www.helicone.ai/)
 - Building [Squeak](https://github.com/connortbot/squeak). Check out more [here](https://squeak.today/).
 
 I always want help - reach out :)
@@ -20,4 +19,4 @@ I always want help - reach out :)
 Inquiries: loiconnor8@gmail.com
 LinkedIn: https://www.linkedin.com/in/connor-loi/
 
-If you are interested in my work, please don't hesitate to contact me 😄 (or for any reason)
+If you are interested in my work, please don't hesitate to contact me 😄
