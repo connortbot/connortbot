@@ -4,11 +4,11 @@ My name is Connor, and I'm a CS student at UWaterloo.
 
 ### Currently
 - Core team at [Helicone](https://github.com/Helicone/helicone). Learn more [here](https://www.helicone.ai/)
-- Building [Squeak](https://github.com/connortbot/squeak). Check out more [here](https://squeak.today/).
 
 I always want help - reach out :)
 
 ### Cool Past Work
+- Built [Squeak](https://github.com/connortbot/squeak). Check out more [here](https://squeak.today/).
 - At CalHacks 11.0, my team and I won **Best Use of Vapi** with [LiveStory](https://github.com/pranavbedi/LiveStory)!
 - Built the [Caitlyn Renderer](https://github.com/cypraeno/caitlyn).
 - To learn some networking, I built [Starbit](https://github.com/connortbot/starbit), a space RTS. You can host it yourself, so grab some friends and give it a try!
